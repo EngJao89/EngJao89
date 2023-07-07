@@ -2,8 +2,12 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-ricardo-martins-ribeiro-4131701a4/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jao.tsx)
 
-![EngJao's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngJao89&show_icons=true&theme=dark)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EngJao89&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EngJao89&&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
