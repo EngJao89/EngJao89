@@ -4,7 +4,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"></a>
   <img 
-    height=300 
+    height=250 
     align="center" 
     src="https://github-readme-stats.vercel.app/api?username=EngJao89&show_icons=true&theme=tokyonight" 
   />
