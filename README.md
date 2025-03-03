@@ -4,14 +4,14 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"></a>
   <img 
-    height=200 
+    height=300 
     align="center" 
     src="https://github-readme-stats.vercel.app/api?username=EngJao89&show_icons=true&theme=tokyonight" 
   />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img 
-    height=400 
+    height=300 
     align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=EngJao89&&layout=donut-vertical&langs_count=8&card_width=320&theme=tokyonight" 
   />
