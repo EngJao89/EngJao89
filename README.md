@@ -6,14 +6,14 @@
   <img 
     height=250 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=EngJao89&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=EngJao89&show_icons=true&theme=dracula" 
   />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img 
     height=300 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=EngJao89&&layout=donut-vertical&langs_count=8&card_width=320&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=EngJao89&&layout=donut-vertical&langs_count=8&card_width=320&theme=dracula" 
   />
 </a>
 
