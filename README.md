@@ -12,15 +12,11 @@
     </td>
     <td>
       <a href="https://github.com/EngJao89">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EngJao89&theme=dracula"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngJao89&layout=donut-vertical&theme=dracula&hide_"/>
       </a>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=EngJao89&theme=dracula&column=7"/>
-</div>
 
 ## 👨‍💻 Sobre Mim
 
