@@ -80,8 +80,18 @@ Desenvolvedor FullStack, com experiência em desenvolvimento web e mobile. Sempr
 ## 📈 Contribuições
 
 <div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngJao89&theme=dracula"
-    alt="Detalhes do perfil"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/EngJao89/EngJao89/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/EngJao89/EngJao89/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Animação do grid de contribuições do GitHub"
+      src="https://raw.githubusercontent.com/EngJao89/EngJao89/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </div>
