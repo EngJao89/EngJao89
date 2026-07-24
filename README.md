@@ -12,7 +12,7 @@
     </td>
     <td>
       <a href="https://github.com/EngJao89">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngJao89&layout=donut-vertical&theme=dracula&hide_"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=EngJao89&layout=donut-vertical&theme=dracula&hide_border=true" alt="Linguagens mais utilizadas" />
       </a>
     </td>
   </tr>
