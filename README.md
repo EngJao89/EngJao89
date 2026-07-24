@@ -83,15 +83,15 @@ Desenvolvedor FullStack, com experiência em desenvolvimento web e mobile. Sempr
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/EngJao89/EngJao89/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://cdn.jsdelivr.net/gh/EngJao89/EngJao89@output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/EngJao89/EngJao89/output/github-contribution-grid-snake.svg"
+      srcset="https://cdn.jsdelivr.net/gh/EngJao89/EngJao89@output/github-contribution-grid-snake.svg"
     />
     <img
       alt="Animação do grid de contribuições do GitHub"
-      src="https://raw.githubusercontent.com/EngJao89/EngJao89/output/github-contribution-grid-snake.svg"
+      src="https://cdn.jsdelivr.net/gh/EngJao89/EngJao89@output/github-contribution-grid-snake.svg"
     />
   </picture>
 </div>
