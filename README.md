@@ -1,5 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I'm+João+FullStack+developer%C2%A0%E2%9C%A8)](https://git.io/typing-svg)
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/joao-ricardo-martins-ribeiro-4131701a4/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/jao.tsx" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+## 👨‍💻 Sobre Mim
+
+Desenvolvedor FullStack, com experiência em desenvolvimento web e mobile. Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
+
+- 🔭 Atualmente trabalhando em projetos FullStack
+- 🌱 Sempre aprendendo novas tecnologias e frameworks
+- 💬 Pergunte-me sobre TypeScript, React, Node.js e desenvolvimento mobile
 
 ## 📊 Estatísticas do GitHub
 
@@ -17,15 +33,6 @@
     </td>
   </tr>
 </table>
-
-## 👨‍💻 Sobre Mim
-
-Desenvolvedor FullStack, com experiência em desenvolvimento web e mobile. Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
-
-- 🔭 Atualmente trabalhando em projetos FullStack
-- 🌱 Sempre aprendendo novas tecnologias e frameworks
-- 💬 Pergunte-me sobre TypeScript, React, Node.js e desenvolvimento mobile
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/joao-ricardo-martins-ribeiro-4131701a4/) | [Instagram](https://www.instagram.com/jao.tsx)
 
 ## 🚀 Minhas Skills
 
