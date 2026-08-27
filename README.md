@@ -19,24 +19,28 @@ Desenvolvedor FullStack, com experiência em desenvolvimento web e mobile. Sempr
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://github.com/EngJao89">
-    <img
-      src="https://jeskei-readme-activity-graph.vercel.app/graph?username=EngJao89&theme=dracula&hide_border=true"
-      alt="Gráfico de atividade do GitHub"
-      width="100%"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/EngJao89">
-    <img
-      src="https://github-readme-stats.shion.dev/api/top-langs/?username=EngJao89&layout=donut-vertical&theme=dracula&hide_border=true"
-      alt="Linguagens mais utilizadas"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="65%" align="center" valign="middle">
+      <a href="https://github.com/EngJao89">
+        <img
+          src="https://jeskei-readme-activity-graph.vercel.app/graph?username=EngJao89&theme=dracula&hide_border=true&area=true&height=400"
+          alt="Gráfico de atividade do GitHub"
+          width="100%"
+        />
+      </a>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <a href="https://github.com/EngJao89">
+        <img
+          src="https://github-readme-stats.shion.dev/api/top-langs/?username=EngJao89&layout=donut&theme=dracula&hide_border=true"
+          alt="Linguagens mais utilizadas"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Minhas Skills
 
