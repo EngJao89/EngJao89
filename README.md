@@ -48,7 +48,7 @@ Desenvolvedor FullStack, com experiência em desenvolvimento web e mobile. Sempr
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,redux,nextjs,vite,angular,html,css,tailwind,styledcomponents,bootstrap,materialui,swift,java,kotlin" alt="Frontend e Mobile Technologies" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,swift,kotlin,redux,nextjs,vite,angular,html,css,tailwind,styledcomponents,bootstrap,materialui" alt="Frontend e Mobile Technologies" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@ Desenvolvedor FullStack, com experiência em desenvolvimento web e mobile. Sempr
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,express,spring,gradle" alt="Backend Technologies" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,express,java,spring,gradle" alt="Backend Technologies" />
   </a>
 </p>
 
